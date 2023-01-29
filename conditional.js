@@ -28,8 +28,8 @@ if (chickenPrice > myMoney){
 
 // if and else
 if (chickenPrice > myMoney){
-    console.log('I will eat Chicken');
+    console.log('I will eat potato');
 }
 else{
-    console.log('I will eat potato');
+    console.log('I will eat Chicken');
 }
