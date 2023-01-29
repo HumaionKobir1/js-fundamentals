@@ -15,3 +15,5 @@ console.log(number);
 var element = number.pop();
 console.log(element);
 
+var element = ['tanvir', 'kalam', 'salam'];
+console.log(element);
